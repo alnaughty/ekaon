@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025110442158",
+    "firebase_url": "https://ekaon-509d8.firebaseio.com",
+    "project_id": "ekaon-509d8",
+    "storage_bucket": "ekaon-509d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025110442158:android:6d58420a2b4dc240e4ed3f",
+        "android_client_info": {
+          "package_name": "com.ohmconception.ekaon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025110442158-bj0ivglsd5v4qkui21acpi596adqdmjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJknGSkQxo47zZdavbwMDcvlBcuQ_i5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025110442158-bj0ivglsd5v4qkui21acpi596adqdmjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

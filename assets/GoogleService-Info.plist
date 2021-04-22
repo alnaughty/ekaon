@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1025110442158-db4mosu7igjrraovds7354n6gqotim81.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1025110442158-db4mosu7igjrraovds7354n6gqotim81</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-o2wOxqc1y6OpD10hMtKxDil0OzWUQso</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1025110442158</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ohmconception.ekaon</string>
+	<key>PROJECT_ID</key>
+	<string>ekaon-509d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ekaon-509d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1025110442158:ios:17d5cfaac4326c3be4ed3f</string>
+	<key>DATABASE_URL</key>
+	<string>https://ekaon-509d8.firebaseio.com</string>
+</dict>
+</plist>
